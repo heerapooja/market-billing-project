@@ -1,0 +1,4 @@
+ 1 bread 20 0
+ 2 tea 100 10
+ 3 sugar 150 0
+ 4 cheese 500 10
