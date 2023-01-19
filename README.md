@@ -1,2 +1,11 @@
 # market-billing-project
-market billing project in cpp
+it demonstrate following functions
+
+User or Buyer login
+Administrator Login
+Add Products
+Modify Products
+Buy products
+Remove products
+
+
