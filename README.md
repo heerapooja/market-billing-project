@@ -1,11 +1,11 @@
 # market-billing-project
-it demonstrate following functions
+It demonstrate following functions
 
-User or Buyer login
-Administrator Login
-Add Products
-Modify Products
-Buy products
-Remove products
+1. User or Buyer login
+2. Administrator Login
+3. Add Products
+4. Modify Products
+5. Buy products
+6. Remove products
 
 
